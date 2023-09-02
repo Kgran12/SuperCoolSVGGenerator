@@ -1,0 +1,30 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "creates svg files based on user input",
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Matt11Moriarty/svg-logo-maker.git"
+    },
+    "author": "kgran12",
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+        "url": "https://github.com/kgran12/svg-logo-maker/issues"
+    },
+    "homepage": "https://github.com/kgran12/svg-logo-maker#readme",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "validate-color": "^2.2.4"
+    }
+}
