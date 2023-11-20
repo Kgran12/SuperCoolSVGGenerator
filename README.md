@@ -21,6 +21,7 @@ To use this app please follow these steps:
 
 ## Walkthrough
 
+https://drive.google.com/file/d/1_P0pYc5m-MAuqubIqmucDpguEn_ApLcy/view
 
 
 ## Credits
